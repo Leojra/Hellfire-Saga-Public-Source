@@ -6,9 +6,9 @@
 ; This file MUST be included in git to ensure a consistent set of parameters for production.
 
 Debug_Title         = 1     ; set to 1 to enable title screen
-GameDebug           = 0     ; If 1, enable debug mode for sonic
-Debug_Lagometer     = 0     ; set to 1 to enable CPU lagometer
-Debug_EasyBoss      = 0     ; set to 1 to make every boss 1-hit kill
+GameDebug           = 1    ; If 1, enable debug mode for sonic
+Debug_Lagometer     = 1    ; set to 1 to enable CPU lagometer
+Debug_EasyBoss      = 1   ; set to 1 to make every boss 1-hit kill
 
 DisableSRAM         = 0     ; set to 1 to create a ROM without SRAM
 
